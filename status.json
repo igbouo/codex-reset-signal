@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T19:41:54.453Z",
+  "updatedAt": "2026-11-21T23:56:43.975Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-21T19:41:54.447Z",
-    "lastSuccessAt": "2026-11-21T19:41:54.447Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-21T23:56:43.966Z",
+    "lastSuccessAt": "2026-11-21T23:56:43.966Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2123998117561532424",
-    "text": "@DylanMcD8 DYLAN, HI! 👋",
-    "url": "https://x.com/thsottiaux/status/2123998117561532424",
-    "postCreatedAt": "2026-11-21T04:33:07.000Z"
+    "id": "2124277855131664869",
+    "text": "Going to check out this threads thing",
+    "url": "https://x.com/thsottiaux/status/2124277855131664869",
+    "postCreatedAt": "2026-11-21T23:04:42.000Z"
   },
   "latest": {
     "reset": null,
